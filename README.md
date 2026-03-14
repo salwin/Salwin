@@ -1,7 +1,7 @@
-# Salwin M S
+# Salwin M S ![TUM](https://img.shields.io/badge/TUM-Technical%20University%20of%20Munich-0065BD)
 
 Master's in Horticulture Science With the Focus on Precision Agricultrure from Technical University of Munich(TUM)
-![TUM](https://img.shields.io/badge/TUM-Technical%20University%20of%20Munich-0065BD)
+
 
 Open to GIS analyst and spatial data roles in agriculture, environment and logistics.
 
@@ -10,6 +10,7 @@ Open to GIS analyst and spatial data roles in agriculture, environment and logis
 ## Skills
 
 ![PyQGIS](https://img.shields.io/badge/PyQGIS-3.28-green?logo=qgis)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![PostGIS](https://img.shields.io/badge/PostGIS-Spatial%20DB-316192?logo=postgresql)
 ![GEE](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?logo=google)
