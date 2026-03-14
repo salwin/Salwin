@@ -1,10 +1,9 @@
 # Salwin M S
 
-M.Sc. Horticulture Science — Precision Agriculture
+Master's in Horticulture Science With the Focus on Precision Agricultrure from Technical University of Munich(TUM)
 ![TUM](https://img.shields.io/badge/TUM-Technical%20University%20of%20Munich-0065BD)
 
-Open to GIS analyst and spatial data roles in agriculture, 
-environment and logistics.
+Open to GIS analyst and spatial data roles in agriculture, environment and logistics.
 
 ---
 
